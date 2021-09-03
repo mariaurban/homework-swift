@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		89A9E7FB26E29D0400D4AC65 /* homework-swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "homework-swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		89A9E7FE26E29D0400D4AC65 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		89A9E80526E2A0C500D4AC65 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		89A9E7F226E29D0400D4AC65 = {
 			isa = PBXGroup;
 			children = (
+				89A9E80526E2A0C500D4AC65 /* .gitignore */,
 				89A9E7FD26E29D0400D4AC65 /* homework-swift */,
 				89A9E7FC26E29D0400D4AC65 /* Products */,
 			);
